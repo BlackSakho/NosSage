@@ -6,25 +6,25 @@ export const Navigation = () => {
   const location = useLocation();
   
   return (
-    <nav className="bg-indigo-700 text-white">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <nav className="text-white bg-indigo-700">
+      <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center space-x-2">
-            <BookOpen className="h-6 w-6" />
-            <span className="font-semibold text-xl">Les Trois Sages</span>
+            <BookOpen className="w-6 h-6" />
+            <span className="text-xl font-semibold">Les Trois Sages</span>
           </Link>
           
-          <div className="hidden md:flex space-x-8">
+          <div className="hidden space-x-8 md:flex">
             <Link 
               to="/" 
               className={`flex items-center space-x-1 hover:text-indigo-200 ${
                 location.pathname === '/' ? 'text-indigo-200' : ''
               }`}
             >
-              <Home className="h-4 w-4" />
+              <Home className="w-4 h-4" />
               <span>Accueil</span>
             </Link>
-            {['confucius', 'lao-tse', 'bouddha'].map((sage) => (
+            {['macktoom', 'mourchid', 'capitaine'].map((sage) => (
               <Link
                 key={sage}
                 to={`/sage/${sage}`}
