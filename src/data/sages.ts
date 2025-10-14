@@ -6,7 +6,7 @@ export const sages: Sage[] = [
     name: 'Serigne Cheikh Ahmed Tidiane SY',
     period: '1925-2017 av.',
     biography: 'Serigne Cheikh Al-Maktoum est le petit-fils de l’erudit El Hadji Malick Sy. Fils de Serigne Babacar Sy et Sokhna Astou Kane, il vit le jour comme son père à Saint-Louis du Sénégal le 29 décembre 19255.Par sa mère, il est descendant de l’Almami du Saloum, Maba Diakhou Ba , de Maad a Sinig Coumba Noffène Diouf et est le petit-fils d’El Hadji Abdoul Hamid Kane qui représentait l’AOF en France, à l’occasion de la pose de la première pierre de la Grande Mosquée de Paris. Serigne Cheikh est né à Saint-Louis du Sénégal en 1925 et viendra s’installer plus tard à Tivaouane puis Dakar. Il grandit aux côtés de grands instructeurs de l’époque tels que Serigne Alioune Gueye, Serigne Cheybatou Fall, Serigne Birane Sarr, Serigne Mama Lo, Imam Moussa Niang, El Hadj Cheikh Ndiaye Mabeye, Serigne Mame Mor Seck, Cheikh Mouhamed Yahya, et son oncle paternel El Hadj Abdoul Aziz Sy entre autres. Ces précepteurs sont des compagnons de son père Serigne Babacar Sy et vont s’occuper de sa formation dès l’enfance. Il termine à 14 ans le cycle inférieur et moyen des études islamiques et publie à 16 ans son premier ouvrage appelé Les Vices des marabouts7. L’administration coloniale française remarque chez le jeune homme âgé désormais de vingt-quatre ans, une culture solide ainsi qu’ une capacité inhabituelle d’initiatives et de mobilisation. Le rapport secret n.42 du chef de la subdivision de Tivaouane adressé au commandant de cercle de Thiès daté du 28 juin 1950 écrit : ``Honneur rendre compte de la création à Tivaouane d\'un mouvement de propagande islamique dit Causerie Musulmane Instructive spécialement tourné vers la jeunesse musulmane du Sénégal et placé sous le patronage de Cheikh Tidiane Sy fils de Babacar Sy, Khalifa du Tidjanisme....Quelques précisions quant à la personnalité de Cheikh Tidiane, âgé d’une vingtaine d’années, ce n’est pas le fils ainé de Babacar Sy, mais il semble en être le plus favori en même temps le plus doué. Il représenterait assez bien la tendance ``jeune Islam`` étudiant épris de culture arabe tout en étant quelque peu teinté d’occidentalisme. Entouré d’un luxe certain (poste TSF, voiture), il semble jouir d’un grand prestige aux yeux des jeunes musulmans. Il nous laisse au demeurant l’impression d’être intelligent et digne de jouer le rôle qui sera vraisemblablement sien dans un avenir éloigné....Sylvain Sankalé``. Il devient grand khalife à la mort de son frère Serigne Mansour Sy en 20129. Il meurt le mercredi 15 mars 2017 dans sa résidence de Dakar et fut remplacé à la tête de la confrérie tidjane par son frère Serigne Abdoul Aziz Sy Al-Amin. Ce dernier dirigea la prière mortuaire dans l’intimité quelques heures après sa mort avant que Serigne Cheikh Ahmed Tidiane Sy ne soit enterré, à sa demande, à l’écart de l’esplanade des mosquées, au niveau du quartier de Ndiandakhoum dans la ville sainte de Tivaouane.',
-    image: 'https://images.unsplash.com/photo-1614641837695-45f03f28c04f',
+    image: 'https://univers-actu.com/wp-content/uploads/2017/04/al-makhtoum.jpg',
     quotes: [
       {
         id: 'c1',
@@ -185,7 +185,7 @@ export const sages: Sage[] = [
     name: 'Seydi Mouhamadoul Moustapha SY',
     period: '',
     biography: 'Seydi Mouhamadoul Moustapha SY est le père fondateur du Dahiratoul Moustarchidine Wal Moustarchidaty. Son œuvre majeure, D.M.W.M, est un cadre où des milliers de jeunes ont beneficiés de formation dans le monde spirituel et islamique.',
-    image: 'https://images.unsplash.com/photo-1604431696980-07e518647bec',
+    image: 'https://www.leral.net/photo/art/grande/67899840-47898556.jpg?v=1665343900',
     quotes: [
       {
         id: 'l1',
@@ -214,8 +214,8 @@ export const sages: Sage[] = [
     id: 'capitaine',
     name: 'Mame Cheikh Ahmed Tidiane Sy Capitaine',
     period: '',
-    biography: 'Mame Cheikh Ahmed Tidiane Sy Capitaine, devenu le Bouddha, est le fondateur du bouddhisme. Son enseignement sur la voie du milieu et les quatre nobles vérités continue d\'influencer des millions de personnes.',
-    image: 'https://images.unsplash.com/photo-1610498263193-633fb5e4c47d',
+    biography: 'Mame Cheikh Ahmed Tidiane Sy Capitaine, .',
+    image: 'https://www.senenews.com/wp-content/uploads/2024/09/e11f2dbd-071b-4602-9d12-a6edb23c8a49-1.jpeg',
     quotes: [
       {
         id: 'b1',
