@@ -48,8 +48,10 @@ export const HomePage = () => {
             transition={{ delay: 0.3, duration: 0.8 }}
             className="max-w-3xl mx-auto text-xl leading-relaxed text-gray-600"
           >
-            Découvrez la sagesse millénaire à travers les enseignements de trois grands maîtres spirituels 
-            qui ont marqué l'histoire de l'humanité.
+            🕊️ Bienvenue sur Les Voix de la Sagesse
+
+Découvrez et méditez les enseignements de trois grandes figures spirituelles et intellectuelles dont la pensée continue d’inspirer des générations.
+À travers leurs discours, citations et images, cette plateforme vous invite à un voyage au cœur de la sagesse, de la foi et de la connaissance.
           </motion.p>
           
           {/* Element décoratif */}
@@ -81,7 +83,7 @@ export const HomePage = () => {
           className="mt-16 text-center"
         >
           <p className="italic text-gray-500">
-            "La véritable sagesse est de connaître ce que l'on ne sait pas." - Socrate
+            "Le plus grand ennemi de l’homme c’est l’ignorance" - Al Macktoom
           </p>
         </motion.div>
       </motion.div>
