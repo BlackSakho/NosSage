@@ -485,7 +485,7 @@ export const sages: Sage[] = [
       },
       {
         id: 'g4',
-        url: new URL('../components/assets/images/RMBio.jpeg', import.meta.url).href ,
+        url: new URL('../components/assets/images/RMbio.jpeg', import.meta.url).href ,
         caption: '',
         type: 'location'
       },
